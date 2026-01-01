@@ -22,7 +22,7 @@ export function Header() {
           </div>
 
           <h2 className="text-2xl md:text-3xl font-bold text-white mb-3 leading-tight">
-            A Autêntica Pizza Napolitana,<br />Entregue na Sua Porta.
+            A Autêntica Pizza Brasileira,<br />Entregue na Sua Porta.
           </h2>
 
           <p className="text-green-400 font-medium text-lg md:text-xl flex items-center gap-2">
